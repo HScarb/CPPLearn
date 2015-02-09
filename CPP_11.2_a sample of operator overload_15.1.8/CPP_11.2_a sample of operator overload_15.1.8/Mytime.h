@@ -1,0 +1,24 @@
+//--Mytime.h
+#ifndef __MYTIME_H__
+#define __MYTIME_H__
+
+class Time
+{
+public:
+	Time();
+	Time(int h, int m = 0);
+	void AddMin(int m);
+	void AddHour(int h);
+	void Reset(int h = 0, int m = 0);
+	Time sum(const Time &t)const;
+	Time operator+(const Time &t)const;
+	Time operator-(const Time &t)const;
+	Time operator*(double mult)const;
+	void Show()const;
+	friend Time	operator*(double m, const Time &t);
+private:
+	int hours;
+	int minutes;
+};
+
+#endif

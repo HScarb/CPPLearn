@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5.3_do while loop_14.10.2", "5.3_do while loop_14.10.2\5.3_do while loop_14.10.2.vcxproj", "{101A601B-66C7-4B57-BDB1-EC90E6CC3313}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101A601B-66C7-4B57-BDB1-EC90E6CC3313}.Debug|Win32.ActiveCfg = Debug|Win32
+		{101A601B-66C7-4B57-BDB1-EC90E6CC3313}.Debug|Win32.Build.0 = Debug|Win32
+		{101A601B-66C7-4B57-BDB1-EC90E6CC3313}.Release|Win32.ActiveCfg = Release|Win32
+		{101A601B-66C7-4B57-BDB1-EC90E6CC3313}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

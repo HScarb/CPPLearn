@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP_11.5_A Vector Class_15.1.21", "CPP_11.5_A Vector Class_15.1.21\CPP_11.5_A Vector Class_15.1.21.vcxproj", "{E42996BF-5BC1-4455-8180-5240133DD4DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42996BF-5BC1-4455-8180-5240133DD4DC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E42996BF-5BC1-4455-8180-5240133DD4DC}.Debug|Win32.Build.0 = Debug|Win32
+		{E42996BF-5BC1-4455-8180-5240133DD4DC}.Release|Win32.ActiveCfg = Release|Win32
+		{E42996BF-5BC1-4455-8180-5240133DD4DC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
